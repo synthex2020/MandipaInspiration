@@ -1,0 +1,4 @@
+/*
+    Essentially in this widget we just call the home widget to be viewed by the user
+
+ */

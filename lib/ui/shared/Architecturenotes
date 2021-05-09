@@ -1,0 +1,6 @@
+
+
+The architecture seems to demand we keep all shared ui elements here
+These elements are stuff like colors, formatting styles etc
+This seems to be aimed at maintaining DRY (Do not repeat yourself) as well as other typical code smells
+
