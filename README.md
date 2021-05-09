@@ -30,6 +30,4 @@
 
 Provider architecture
 
-[Layered Architecture]: https://openclassrooms.com/en/courses/6397806-design-your-software-architecture-using-industry-standard-patterns/6896176-layered-architecture
->>>>>>> main
 
