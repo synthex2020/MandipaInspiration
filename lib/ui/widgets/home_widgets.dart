@@ -8,9 +8,9 @@ import 'package:google_fonts/google_fonts.dart';
 class Home_display extends StatelessWidget {
 
   //database stub
-  String whoweare = "...";
-  String ourmission = "....";
-  String hours = "....";
+  String whoweare = "We are a writing service provider that gives publishing guidelines i.e consulting, editing, mentoring, self-publishing guide, publish with us etc to individuals and organizations around the world.";
+  String ourmission = "To offer excellent and affordable writing services to everyone who desires their story to be read.";
+  String hours = "24 hours, 7 days a week";
 
   @override
   Widget build(BuildContext context) {
@@ -20,6 +20,7 @@ class Home_display extends StatelessWidget {
       children: [
         //the banner or jumbotron
         Image(image: AssetImage('images/mandi-main.png'),),
+        SizedBox(height: MediaQuery.of(context).size.height/10,),
         //WHo are they?
         Text("Who are we? " , style: GoogleFonts.pacifico(
             color: Colors.black,

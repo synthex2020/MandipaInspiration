@@ -11,10 +11,10 @@ import 'package:google_fonts/google_fonts.dart';
 
 class Services_widgets extends StatelessWidget {
 
-  String selfPublishing;
+  String content;
   String title;
 
-  Services_widgets({this.title, this.selfPublishing});
+  Services_widgets({@required this.title, @required this.content});
 
   @override
   Widget build(BuildContext context) {
@@ -23,11 +23,11 @@ class Services_widgets extends StatelessWidget {
           color: Colors.black,
           fontSize: 25
       ),),),
-      collapsed: Text(selfPublishing , softWrap: true, maxLines: 2, overflow: TextOverflow.ellipsis, style: GoogleFonts.roboto(
+      collapsed: Text(content , softWrap: true, maxLines: 2, overflow: TextOverflow.ellipsis, style: GoogleFonts.roboto(
           color: Colors.black,
           fontSize: 14
       ),),
-      expanded: Center(child: Text(selfPublishing , softWrap: true, style: GoogleFonts.roboto(
+      expanded: Center(child: Text(content , softWrap: true, style: GoogleFonts.roboto(
           color: Colors.black,
           fontSize: 14
       ),),),

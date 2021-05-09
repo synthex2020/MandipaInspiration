@@ -7,4 +7,6 @@ const Color appbarbackgroundcolor = Colors.white;
 //the color of the text in the app to be displayed
 const Color textcolor = Colors.black;
 //the color of the buttons
-const Color buttonColor = Colors.purple;
+const Color buttoncolor = Colors.purple;
+//the icon theme data color
+const Color iconthemedatacolor = Colors.black;

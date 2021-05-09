@@ -11,7 +11,7 @@ import 'package:url_launcher/url_launcher.dart';
 class About extends StatelessWidget {
 
   //use a database stub
-  String about = "...";
+  String about = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
   @override
   Widget build(BuildContext context) {
     return  SingleChildScrollView(
@@ -27,7 +27,7 @@ class About extends StatelessWidget {
                 fontSize: 14
             ),),
             //visit my site
-            FlatButton(
+            TextButton(
               onPressed: () {
                 _launchUrl("https:www.mandiinspiration.com");
               },
