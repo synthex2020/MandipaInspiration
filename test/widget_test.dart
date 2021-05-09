@@ -10,21 +10,24 @@ import 'package:flutter_test/flutter_test.dart';
 
 import 'package:mandipainspiration/main.dart';
 
+import 'testing_widget.dart';
+
 void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
-    await tester.pumpWidget(MyApp());
+  //define a test. The test widgets functions also provides a widget tester to work with.
+  //the widget tester allows you to build and interact with widgets in the test environment
+  testWidgets('The testing widget has a title and message', (WidgetTester tester) async {
+    //our test code then comes here
+    //we create the widget by telling the tester to build it
+    await tester.pumpWidget(TestingWidget(title: 'T', message: 'M'));
 
-    // Verify that our counter starts at 0.
-    expect(find.text('0'), findsOneWidget);
-    expect(find.text('1'), findsNothing);
+    //create finders
+    final titleFinder = find.text('T');
+    final messageFinder = find.text('M');
 
-    // Tap the '+' icon and trigger a frame.
-    await tester.tap(find.byIcon(Icons.add));
-    await tester.pump();
+    //use the findsOneWidget matcher provided by flutter_test to verify that the text widgets appear exactly once in the widget tree
+    expect(titleFinder, findsOneWidget);
+    expect(messageFinder,findsOneWidget);
 
-    // Verify that our counter has incremented.
-    expect(find.text('0'), findsNothing);
-    expect(find.text('1'), findsOneWidget);
+    //note they are other matcher types to explore them please visit documentation link provided in read me
   });
 }
