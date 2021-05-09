@@ -1,0 +1,5 @@
+/*
+    Supposed to contain boiler plate code
+    Stuff like space constraints and caluclated heights and widths
+    Not sure how to implement yet given the current stated physical constriants
+ */
