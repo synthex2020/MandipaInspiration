@@ -34,8 +34,7 @@ The application is a platform for the publisher mandiinpiration company for them
 
 # Architecture 
 
-N- teir architecture (layered architecture)
-Comprised of 3 layers, persistence data layer, logic layer and the presentation layer.
+Provider architecture
 
 [Layered Architecture]: https://openclassrooms.com/en/courses/6397806-design-your-software-architecture-using-industry-standard-patterns/6896176-layered-architecture
 
