@@ -1,7 +1,7 @@
 # mandipainspiration
 
 ## General Information display
-*priority:* high
+**priority:** high
 
 1. As a user i want to see the company's hours of operation
 2. As a user i want to see what books they sell and where
