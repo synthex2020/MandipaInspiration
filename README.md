@@ -1,5 +1,6 @@
 # mandipainspiration
-Mandi inspiration is book publishing company based in Canada and Zimbabwe . This a Software Application that allows for direct communication and connection with possible clients and supporters of the company.
+Mandi inspiration is book publishing company based in Canada and Zimbabwe . This a Software Application 
+that allows for direct communication and connection with possible clients and supporters of the company.
 The app will also be use purchase services like :
 
 1. Coaching $500
@@ -7,6 +8,8 @@ The app will also be use purchase services like :
 3. 1 on 1 on meeting $150/hr
 4. Book endorsements $50
 
+All services will be paid for through pay pal for safe third party transactions that does not 
+involve Mandiinspiration collecting personal financial information.
 
 ## General Information display
 **priority:** high
