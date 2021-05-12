@@ -9,7 +9,8 @@ The app will also be use purchase services like :
 4. Book endorsements $50
 
 All services will be paid for through pay pal for safe third party transactions that does not 
-involve Mandiinspiration collecting personal financial information.
+involve Mandiinspiration collecting personal financial information skipping legal liability of the 
+company to maintain finances from the application and keeping track of transactions.
 
 ## General Information display
 **priority:** high
