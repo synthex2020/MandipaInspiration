@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mandipainspiration/ui/views/home.dart';
+import 'package:mandipainspiration/ui/views/social_feed.dart';
 
 void main() {
   runApp(MyApp());
@@ -23,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: Home(),
+      home: SocialPage(),
     );
   }
 }
