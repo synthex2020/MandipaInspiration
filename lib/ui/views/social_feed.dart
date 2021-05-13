@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mandipainspiration/core/models/Post.dart';
 import 'package:mandipainspiration/ui/widgets/CreatePost.dart';
+import 'package:mandipainspiration/ui/widgets/profileHeader.dart';
 class SocialPage extends StatelessWidget{
   List<Post> posts;
   @override
@@ -18,16 +19,23 @@ class SocialPage extends StatelessWidget{
                   backgroundColor: Colors.white,
                   floating: true,
                   flexibleSpace:FlexibleSpaceBar(
+                    
                     title: Text(
                       'Feed',
                       style:TextStyle(color: Colors.black),
 
                     ),
                     centerTitle: false,
+                    
                   )
               ),
               SliverToBoxAdapter(
-                  child: CreatePost()
+                  child: Column(
+                    children:<Widget>[
+                      ProfileHeader("Mandipa Shumba","Author"),
+                      CreatePost()
+                    ]
+                  )
               )
             ]
         )
