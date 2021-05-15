@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		0NKGpwMMOMnp+fAtbylDWO1K+wA=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -24,13 +24,17 @@
 		<data>
 		XxTTbEdqMMr+614Mzm3EJYMaT9I=
 		</data>
+		<key>flutter_assets/images/mandi-main.png</key>
+		<data>
+		w0YLsBR0hEpMGK9Mtrqji9SzDUw=
+		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
-		T8IY+xfz94jVIIQrny1LCm+1dLc=
+		Bpo1zYxnMKgIDCWmW6QiktUBjH4=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		jukNfFE5sU/Wv7G/XKyHHUHFK+8=
+		6wAO51IE5V7Bagy57L3L6cT1WkU=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -47,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+			0NKGpwMMOMnp+fAtbylDWO1K+wA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			4+ibjkmNK7GQTQGav2t76XCKvwZSKk93Y1Z9cvX4KK0=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -87,26 +91,37 @@
 			Nt7OTUXA/dkAWXOmvWbTlkJLC1yvAxfCcd3OIaLWdQQ=
 			</data>
 		</dict>
+		<key>flutter_assets/images/mandi-main.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			w0YLsBR0hEpMGK9Mtrqji9SzDUw=
+			</data>
+			<key>hash2</key>
+			<data>
+			I8XAeWaBsw91m4XrNU2RyqTHos9Ku/vKdjT0kPUQhCU=
+			</data>
+		</dict>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T8IY+xfz94jVIIQrny1LCm+1dLc=
+			Bpo1zYxnMKgIDCWmW6QiktUBjH4=
 			</data>
 			<key>hash2</key>
 			<data>
-			x+2h+84qkuimkqaz2pPtTlyv3ksM+YWtrTgb5aT24fw=
+			xVuz4hk5MOtTK7YB7/MDWXzPS9nF2Z5Gg4AFH3630rY=
 			</data>
 		</dict>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jukNfFE5sU/Wv7G/XKyHHUHFK+8=
+			6wAO51IE5V7Bagy57L3L6cT1WkU=
 			</data>
 			<key>hash2</key>
 			<data>
-			0Lm5zsKqK4HK9zBPoUOeX1G/BRn1s7a2Ie7UvyzsgbM=
+			k1TR+r7aNqA9DuMRfIhsVmt01KhVTa8uO5rJhcod880=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
