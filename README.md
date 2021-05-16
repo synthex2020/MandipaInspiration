@@ -44,6 +44,8 @@ over social media pages i.e can add content
 1. As a creator I want to able to make public posts for everyone to see.
 
 - **priority: high**
+### Developer tasks
+1. Create post object
 
 2. As a user I want to be able to see my favourite creators posts.
 
