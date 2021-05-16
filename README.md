@@ -84,6 +84,7 @@ over social media pages i.e can add content
 - Create user account page
 - populaate page with post widgets
 
+## Product & Services Listing
 
 ## General Information display
 **priority:** high
