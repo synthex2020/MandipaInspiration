@@ -44,12 +44,16 @@ over social media pages i.e can add content
 1. As a creator I want to able to make public posts for everyone to see.
 
 - **priority: high**
-#### Developer tasks
-- Create post object
+   #### Developer tasks
+ - Create post object
+ - Create post widgets
 
 2. As a user I want to be able to see my favourite creators posts.
 
 - **priority: high**
+  #### Developer tasks
+  - Create post object
+  - Create post widgets
 
 3. As a user I want to be notified when my favourite creator posts new content.
 
@@ -58,14 +62,27 @@ over social media pages i.e can add content
 4. As a user I want to be able see the services my favourite creator offers.
 
 - **priority: high**
+#### Developer tasks
+- Create a Service card widget
+- Create a Service object
 
 5. As a user I want to be able to post photos on my social media page.
 
 - **priority: medium**
+#### Developer tasks
+- Create post object with image url attribute
+- Create post widget with image widget
+
 6. As a user I want to be able to donate money to my favourite creators.
+- Create paypal provider package
+- create donate interface
 
 - **priority: medium**
-7. 
+7. As user I want to see all the posts a creator has made
+- **priority:high**
+#### Developer tasks
+- Create user account page
+- populaate page with post widgets
 
 
 ## General Information display
