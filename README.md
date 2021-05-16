@@ -47,6 +47,7 @@ over social media pages i.e can add content
 4. As a user I want to be able see the services my favourite creator offers.
 5. As a user I want to be able to post photos on my social media page.
 6. As a user I want to be able to donate money to my favourite creators.
+7. 
 
 
 ## General Information display
