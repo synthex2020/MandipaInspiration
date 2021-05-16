@@ -9,6 +9,7 @@ The app offers features such as
   the company in that period and also serves as an independent platform for the company to put out the
   content they want for users who are primarily there for the company and their activities . It gives 
   users the opportunity to ask questions and have direct access to the company.
+- thing
   
 2. Customer support(customer contact)
  
