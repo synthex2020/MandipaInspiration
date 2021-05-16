@@ -15,7 +15,7 @@ The app offers features such as
  
 - This enables users to speak directly with the company on issues with
 
-3. Services Listing
+3. Product & Services Listing
 
 - This is a list of services a user  can purchase through the app or externally on other platforms.
  
