@@ -45,7 +45,7 @@ over social media pages i.e can add content
 
 - **priority: high**
 #### Developer tasks
-1. Create post object
+- Create post object
 
 2. As a user I want to be able to see my favourite creators posts.
 
