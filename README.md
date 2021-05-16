@@ -45,6 +45,8 @@ over social media pages i.e can add content
 2. As a user I want to be able to see my favourite creators posts.
 3. As a user I want to be notified when my favourite creator posts new content.
 4. As a user I want to be able see the services my favourite creator offers.
+5. As a user I want to be able to post photos on my social media page.
+6. As a user I want to be able to donate money to my favourite creators.
 
 
 ## General Information display
