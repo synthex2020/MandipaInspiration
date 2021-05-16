@@ -8,8 +8,8 @@ The app offers features such as
 - This provides users a platform to connect with the company and be updated with the latest news of 
   the company in that period and also serves as an independent platform for the company to put out the
   content they want for users who are primarily there for the company and their activities . It gives 
-  users the opportunity to ask questions and have direct access to the company.
-- thing
+  users the opportunity to ask questions and have direct access to the company or individual.
+
   
 2. Customer support(customer contact)
  
@@ -35,6 +35,16 @@ All services will be paid for through pay pal for safe third party transactions 
 involve Mandiinspiration collecting personal financial information skipping legal liability of the 
 company to maintain finances from the application and keeping track of transactions.
 
+# User stories
+## Social media User story
+From the perspective of a user and a creator/company . A creator or a company has administrative control
+over social media pages i.e can add content
+*priority:* high
+
+1. As a creator I want to able to make public posts for everyone to see.
+2. As a user I want to be able to see my favourite creators posts.
+3. As a user I want to be notified when my favourite creator posts new content.
+4. As a user I want to be able see the services my favourite creator offers.
 
 
 ## General Information display
@@ -46,13 +56,6 @@ company to maintain finances from the application and keeping track of transacti
 4. As a user i want to contact mandiinspiration
 
 ## Blog
-*priority:* medium
-
-1. As a user i want to read Mandipa's thoughts
-2. As a user i want to know when Mandipa has posted something new
-3. As a user i want to comment, like or dislike the things Mandipa posts
-4. As a user i want to share the content i have access to 
-
 
 # Features
 
