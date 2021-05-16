@@ -85,7 +85,8 @@ over social media pages i.e can add content
 - populaate page with post widgets
 
 ## Product & Services Listing
-
+1.As a creator ,I want to be able to add my new products and services.
+2.
 ## General Information display
 **priority:** high
 
